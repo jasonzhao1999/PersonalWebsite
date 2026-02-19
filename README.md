@@ -2,7 +2,7 @@
 
 My personal portfolio website built with React and Vite. Features a clean, colorful design with smooth animations and responsive layout.
 
-**Live Site:** [personal-website-blond-eta-53.vercel.app](https://personal-website-blond-eta-53.vercel.app/)
+**Live Site:** [https://jasonzhao.vercel.app/](https://jasonzhao.vercel.app/)
 
 ## Tech Stack
 
